@@ -1,0 +1,4 @@
+GET  http://localhost:1457/getUs
+# Authorization: Basic admin admin
+# Content-Type: application/json
+Connection: keep-alive
